@@ -2,8 +2,6 @@
 
 ## 📌 Project Overview
 
-This project is part of the **CSMAI-24-5_S2_A Artificial Intelligence and Machine Learning module** at the University of Reading.
-
 The objective is to perform **data analysis, preprocessing, and machine learning modeling** on the California Housing dataset to predict house prices.
 
 ---
